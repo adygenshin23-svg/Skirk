@@ -162,7 +162,10 @@ https://tvri.cob.web.id/hls3-lo/index.m3u8
 #EXTVLCOPT:http-origin=https://pildun.co.web.id
 https://pildun.cob.web.id/hls3-lo/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="httpss/0bdffa47-d6.png" group-title="PIALA DUNIA", Fox One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.go49UT7HLolzRAVC4/s700/RCTI.png" group-title="PIALA DUNIA",TVRI MAX (LIVE ONLY RELOAD/MUAT ULANG DULU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -176,7 +179,6 @@ https://tencent-css.byteplaycdn.com/975b368bdfff1e1663c23ac92af4d008/6A49D4DC/Co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn1.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R2902026%201.gif",ITV 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
