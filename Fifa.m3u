@@ -914,13 +914,13 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 ============ Piala Dunia 2026 ===============
 
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png",TVRI NASIONAL
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pildun.co.web.id/
 #EXTVLCOPT:http-origin=https://pildun.co.web.id
 https://tvri.cob.web.id/hls3-lo/index.m3u8
 
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI SPORT
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pildun.co.web.id/
 #EXTVLCOPT:http-origin=https://pildun.co.web.id
@@ -933,13 +933,13 @@ EXTINF:-1 tvg-logo="https:/w.png" group-title="PIALA DUNIA", FOX 4K
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/znlxmhkktl/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://i.imghippo.com/files/KPD6826YGk.jpg", Canal 5
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://i.imghippo.com/files/KPD6826YGk.jpg", Canal 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 
 
-EXTINF:-1 tvg-logo="ht8fjF/wc26nw.png" group-title="PIALA DUNIA", RTV SPORT
+#EXTINF:-1 tvg-logo="ht8fjF/wc26nw.png" group-title="PIALA DUNIA", RTV SPORT
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -959,10 +959,10 @@ EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.i
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/ptvs.m3u8
 
 
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png",TVRI SPORTS WC
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png",TVRI SPORTS WC
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png",TVRI NASIONAL WC
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png",TVRI NASIONAL WC
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
 
@@ -1250,7 +1250,7 @@ https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-EXTINF:-1 tvg-logo="https://i.im/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", SPORZA LIVE
+#EXTINF:-1 tvg-logo="https://i.im/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", SPORZA LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
@@ -1272,14 +1272,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R2902026%201.gif", T Sports
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
 
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R2902026%201.gif",ITV 1 KILATLIVE
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R2902026%201.gif",ITV 1 KILATLIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
 
 
-EXTINF:-1 tvg-logo="httpss/0bdffa47-d6.png" group-title="PIALA DUNIA", Qazsport
+#EXTINF:-1 tvg-logo="httpss/0bdffa47-d6.png" group-title="PIALA DUNIA", Qazsport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1303,8 +1303,7 @@ https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", Isceen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/isceen.m3u8
-#https://cricxtv.fun/isceen.php?file=https%3A%2F%2Ftc-sg.rockstreamer.com%2Fv1%2F019ed91616121ea540a8171c8e801f%2F019ed92ac80315fc600b1796d4ad8b%2Ftc_sg_1_720p.m3u8
+https://cricxtv.fun/isceen.php?file=https%3A%2F%2Ftc-sg.rockstreamer.com%2Fv1%2F019ed91616121ea540a8171c8e801f%2F019ed92ac80315fc600b1796d4ad8b%2Ftc_sg_1_720p.m3u8
 
 #EXTINF:-1 tvg-id="b" tvg-logo="https://upload.wikimediapng" group-title="PIALA DUNIA", CANAL 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
