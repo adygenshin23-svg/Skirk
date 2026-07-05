@@ -167,13 +167,13 @@ https://pildun.cob.web.id/hls3-lo/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.go49UT7HLolzRAVC4/s700/RCTI.png" group-title="PIALA DUNIA",TVRI MAX (LIVE ONLY RELOAD/MUAT ULANG DULU)
+#EXTINF:-1 tvg-logo="https://blogger.go49UT7HLolzRAVC4/s700/RCTI.png" group-title="PIALA DUNIA",TVRI MAXSTREAM (LIVE ONLY RELOAD/MUAT ULANG DULU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
-https://tencent-css.byteplaycdn.com/975b368bdfff1e1663c23ac92af4d008/6A49D4DC/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+https://tencent-css.byteplaycdn.com/e730e2ec489583e4c1313172385e75d0/6A4B4B72/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS;PIALA DUNIA", TSN 1 🇨🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
